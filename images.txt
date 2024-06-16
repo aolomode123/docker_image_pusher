@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 # outlinewiki/outline:0.77.1
-ajnart/homarr:0.15.3
+ajnart/homarr
