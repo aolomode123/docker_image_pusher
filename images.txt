@@ -6,4 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 # outlinewiki/outline:0.77.1
 # ghcr.io/ajnart/homarr:latest
-ghcr.io/ajnart/homarr:0.15.2
+# ghcr.io/ajnart/homarr:0.15.2
+linuxserver/calibre-web
