@@ -10,4 +10,4 @@ xhofe/alist:latest
 # linuxserver/calibre-web:0.6.21
 # shaneisrael/fireshare:latest
 # snowdreamtech/frps:0.31.0
-hurlenko/filebrowser:2.23.0
+hurlenko/filebrowser:latest
