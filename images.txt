@@ -11,4 +11,4 @@ xhofe/alist:latest
 # shaneisrael/fireshare:latest
 # snowdreamtech/frps:0.31.0
 # hurlenko/filebrowser:latest
-filebrowser/filebrowser:v2.30.0
+filebrowser/filebrowser:latest
