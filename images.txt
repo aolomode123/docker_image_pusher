@@ -11,4 +11,6 @@ xhofe/alist:latest
 # shaneisrael/fireshare:latest
 # snowdreamtech/frps:0.31.0
 # hurlenko/filebrowser:latest
-filebrowser/filebrowser:latest
+# filebrowser/filebrowser:latest
+keycloak/keycloak:24.0.4
+postgres:14.6
