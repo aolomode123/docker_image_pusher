@@ -22,4 +22,5 @@ xhofe/alist:latest
 # wallabag/wallabag:latest
 # postgres:9.6
 # redis:alpine
-mariadb
+# mariadb
+mariadb:10.10
