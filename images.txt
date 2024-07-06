@@ -20,4 +20,5 @@ xhofe/alist:latest
 # postgres:16
 # postgres:14
 # wallabag/wallabag:latest
-postgres:9.6
+# postgres:9.6
+redis:alpine
