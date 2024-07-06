@@ -17,4 +17,5 @@ xhofe/alist:latest
 # deluan/navidrome:latest
 # codeberg.org/readeck/readeck:latest
 # postgres:16-alpine
-postgres:16
+# postgres:16
+postgres:14
