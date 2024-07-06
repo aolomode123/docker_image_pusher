@@ -18,4 +18,5 @@ xhofe/alist:latest
 # codeberg.org/readeck/readeck:latest
 # postgres:16-alpine
 # postgres:16
-postgres:14
+# postgres:14
+wallabag/wallabag:latest
