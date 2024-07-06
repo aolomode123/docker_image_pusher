@@ -15,4 +15,5 @@ xhofe/alist:latest
 # keycloak/keycloak:24.0.4
 # postgres:14.6
 # deluan/navidrome:latest
-codeberg.org/readeck/readeck:latest
+# codeberg.org/readeck/readeck:latest
+postgres:16-alpine
