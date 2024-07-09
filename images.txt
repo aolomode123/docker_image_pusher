@@ -23,4 +23,5 @@ xhofe/alist:latest
 # postgres:9.6
 # redis:alpine
 # mariadb
-mariadb:10.10
+# mariadb:10.10
+ghcr.io/ssddanbrown/rss
