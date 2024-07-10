@@ -26,6 +26,7 @@ xhofe/alist:latest
 # mariadb:10.10
 # ghcr.io/ssddanbrown/rss
 # mariadb:11.3
-diygod/rsshub
-browserless/chrome
-redis:alpine
+# diygod/rsshub
+# browserless/chrome
+# redis:alpine
+ghcr.io/linuxserver/freshrss:latest
