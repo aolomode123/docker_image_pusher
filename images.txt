@@ -29,4 +29,5 @@ xhofe/alist:latest
 # diygod/rsshub
 # browserless/chrome
 # redis:alpine
-ghcr.io/linuxserver/freshrss:latest
+# ghcr.io/linuxserver/freshrss:latest
+zerotier/zerotier-synology:latest
