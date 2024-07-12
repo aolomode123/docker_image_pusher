@@ -32,4 +32,5 @@ xhofe/alist:latest
 # ghcr.io/linuxserver/freshrss:latest
 # zerotier/zerotier-synology:latest
 # bitwarden/server
-vaultwarden/server
+# vaultwarden/server
+bitwarden/self-host:beta
