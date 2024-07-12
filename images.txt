@@ -30,4 +30,5 @@ xhofe/alist:latest
 # browserless/chrome
 # redis:alpine
 # ghcr.io/linuxserver/freshrss:latest
-zerotier/zerotier-synology:latest
+# zerotier/zerotier-synology:latest
+bitwarden/server
