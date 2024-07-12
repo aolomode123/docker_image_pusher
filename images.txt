@@ -31,4 +31,5 @@ xhofe/alist:latest
 # redis:alpine
 # ghcr.io/linuxserver/freshrss:latest
 # zerotier/zerotier-synology:latest
-bitwarden/server
+# bitwarden/server
+vaultwarden/server
