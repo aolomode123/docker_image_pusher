@@ -35,4 +35,5 @@ xhofe/alist:latest
 # bitwarden/self-host:beta
 # vaultwarden/server
 # docker.io/jc21/nginx-proxy-manager:latest
-jc21/mariadb-aria:latest
+# jc21/mariadb-aria:latest
+nocodb/nocodb:latest
