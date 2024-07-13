@@ -33,4 +33,5 @@ xhofe/alist:latest
 # zerotier/zerotier-synology:latest
 # bitwarden/server
 # bitwarden/self-host:beta
-vaultwarden/server
+# vaultwarden/server
+docker.io/jc21/nginx-proxy-manager:latest
