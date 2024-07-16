@@ -37,4 +37,6 @@ xhofe/alist:latest
 # docker.io/jc21/nginx-proxy-manager:latest
 # jc21/mariadb-aria:latest
 # nocodb/nocodb:latest
-postgres
+# postgres
+halcyonazure/lsky-pro-docker
+coldpig/lskypro-docker:latest
