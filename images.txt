@@ -40,5 +40,6 @@ xhofe/alist:latest
 # postgres
 # halcyonazure/lsky-pro-docker
 # coldpig/lskypro-docker:latest
-mysql:5.7.37
-mysql:5.7.22
+# mysql:5.7.37
+# mysql:5.7.22
+finab/bark-server
