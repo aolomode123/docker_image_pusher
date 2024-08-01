@@ -44,5 +44,6 @@ outlinewiki/outline:0.78.0
 # mysql:5.7.22
 # finab/bark-server
 # quay.io/keycloak/keycloak:legacy
-quay.io/keycloak/keycloak:25.0.0
-postgres:16.2
+# quay.io/keycloak/keycloak:25.0.0
+quay.io/keycloak/keycloak:25.0.1
+# postgres:16.2
