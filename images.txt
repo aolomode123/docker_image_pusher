@@ -47,4 +47,5 @@ outlinewiki/outline:0.78.0
 # quay.io/keycloak/keycloak:25.0.0
 # quay.io/keycloak/keycloak:25.0.1
 # postgres:16.2
-emby/embyserver
+# emby/embyserver
+ghcr.io/linuxserver/plex
