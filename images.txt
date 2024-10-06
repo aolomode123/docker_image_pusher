@@ -52,4 +52,5 @@ xhofe/alist:latest
 # postgres:13.3
 # redis:6.2.4
 # minio/minio:RELEASE.2021-09-03T03-56-13Z
-ghcr.io/linuxserver/syncthing:latest
+# ghcr.io/linuxserver/syncthing:latest
+ghcr.io/linuxserver/freshrss:1.24.3
