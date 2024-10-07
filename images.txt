@@ -54,4 +54,5 @@ xhofe/alist:latest
 # minio/minio:RELEASE.2021-09-03T03-56-13Z
 # ghcr.io/linuxserver/syncthing:latest
 # ghcr.io/linuxserver/freshrss:1.24.3
-quay.io/keycloak/keycloak:23.0
+# quay.io/keycloak/keycloak:23.0
+postgres:15
