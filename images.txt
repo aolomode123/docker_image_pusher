@@ -53,4 +53,5 @@ xhofe/alist:latest
 # redis:6.2.4
 # minio/minio:RELEASE.2021-09-03T03-56-13Z
 # ghcr.io/linuxserver/syncthing:latest
-ghcr.io/linuxserver/freshrss:1.24.3
+# ghcr.io/linuxserver/freshrss:1.24.3
+quay.io/keycloak/keycloak:23.0
