@@ -57,4 +57,5 @@ xhofe/alist:latest
 # quay.io/keycloak/keycloak:23.0
 # postgres:15
 # docker.io/keycloak/keycloak:25.0.4
-ghcr.io/linuxserver/syncthing:latest
+# ghcr.io/linuxserver/syncthing:latest
+portainer/portainer:latest
