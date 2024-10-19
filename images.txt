@@ -59,4 +59,6 @@ xhofe/alist:latest
 # docker.io/keycloak/keycloak:25.0.4
 # ghcr.io/linuxserver/syncthing:latest
 # portainer/portainer:latest
-lscr.io/linuxserver/jackett:latest
+# lscr.io/linuxserver/jackett:latest
+postgres:17
+gitea/gitea:latest
