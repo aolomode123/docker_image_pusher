@@ -60,5 +60,6 @@ xhofe/alist:latest
 # ghcr.io/linuxserver/syncthing:latest
 # portainer/portainer:latest
 # lscr.io/linuxserver/jackett:latest
-postgres:17
-gitea/gitea:latest
+# postgres:17
+# gitea/gitea:latest
+ghcr.io/linuxserver/syncthing:1.28.0
