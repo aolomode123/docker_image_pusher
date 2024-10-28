@@ -64,4 +64,5 @@ xhofe/alist:latest
 # gitea/gitea:latest
 # ghcr.io/linuxserver/syncthing:1.28.0
 # kromit/titra
-mongo:5.0
+# mongo:5.0
+redmine:latest
