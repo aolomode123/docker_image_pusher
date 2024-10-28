@@ -62,4 +62,6 @@ xhofe/alist:latest
 # lscr.io/linuxserver/jackett:latest
 # postgres:17
 # gitea/gitea:latest
-ghcr.io/linuxserver/syncthing:1.28.0
+# ghcr.io/linuxserver/syncthing:1.28.0
+mongo:7.0
+kromit/titra
