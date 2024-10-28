@@ -63,5 +63,5 @@ xhofe/alist:latest
 # postgres:17
 # gitea/gitea:latest
 # ghcr.io/linuxserver/syncthing:1.28.0
-mongo:7.0
-kromit/titra
+# kromit/titra
+mongo:5.0
