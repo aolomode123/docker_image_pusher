@@ -36,7 +36,7 @@ xhofe/alist:latest
 # vaultwarden/server
 # docker.io/jc21/nginx-proxy-manager:latest
 # jc21/mariadb-aria:latest
-# nocodb/nocodb:latest
+nocodb/nocodb:0.257.2
 # postgres
 # halcyonazure/lsky-pro-docker
 # coldpig/lskypro-docker:latest
@@ -66,4 +66,4 @@ xhofe/alist:latest
 # kromit/titra
 # mongo:5.0
 # redmine:latest
-mattermost/focalboard:latest
+# mattermost/focalboard:latest
