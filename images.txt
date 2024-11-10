@@ -68,4 +68,5 @@ xhofe/alist:latest
 # redmine:latest
 # mattermost/focalboard:latest
 # ghcr.io/linkwarden/linkwarden:latest
-excalidraw/excalidraw:latest
+# excalidraw/excalidraw:latest
+excalidraw/excalidraw-room:latest
