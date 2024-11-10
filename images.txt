@@ -67,4 +67,5 @@ xhofe/alist:latest
 # mongo:5.0
 # redmine:latest
 # mattermost/focalboard:latest
-ghcr.io/linkwarden/linkwarden:latest
+# ghcr.io/linkwarden/linkwarden:latest
+excalidraw/excalidraw:latest
