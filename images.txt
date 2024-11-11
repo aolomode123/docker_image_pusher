@@ -74,4 +74,7 @@ xhofe/alist:latest
 # linux/amd64 node:18
 # linux/amd64 nginx:1.27-alpine
 # docker.io/library/node:18
-nginx:1.27-alpine
+# nginx:1.27-alpine
+alswl/excalidraw:v0.17.3-fork-b1
+alswl/excalidraw-storage-backend:v2023.11.11
+excalidraw/excalidraw-room:sha-49bf529
