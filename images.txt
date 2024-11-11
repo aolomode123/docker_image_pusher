@@ -70,6 +70,6 @@ xhofe/alist:latest
 # ghcr.io/linkwarden/linkwarden:latest
 # excalidraw/excalidraw:latest
 # excalidraw/excalidraw-room:latest
-linux/amd64 node:12-alpine
-linux/amd64 node:18
-linux/amd64 nginx:1.27-alpine
+docker-node:12-alpine
+# linux/amd64 node:18
+# linux/amd64 nginx:1.27-alpine
