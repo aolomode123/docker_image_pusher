@@ -73,5 +73,5 @@ xhofe/alist:latest
 # docker.io/library/node:12-alpine
 # linux/amd64 node:18
 # linux/amd64 nginx:1.27-alpine
-docker.io/library/node:18
-docker.io/library/nginx:1.27-alpine
+# docker.io/library/node:18
+nginx:1.27-alpine
