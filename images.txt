@@ -4,7 +4,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-# outlinewiki/outline:0.80.2
+outlinewiki/outline:0.81.0
 # ghcr.io/ajnart/homarr:latest
 # ghcr.io/ajnart/homarr:0.15.2
 # linuxserver/calibre-web:0.6.21
@@ -75,6 +75,6 @@ xhofe/alist:latest
 # linux/amd64 nginx:1.27-alpine
 # docker.io/library/node:18
 # nginx:1.27-alpine
-alswl/excalidraw:v0.17.3-fork-b1
-alswl/excalidraw-storage-backend:v2023.11.11
-excalidraw/excalidraw-room:sha-49bf529
+# alswl/excalidraw:v0.17.3-fork-b1
+# alswl/excalidraw-storage-backend:v2023.11.11
+# excalidraw/excalidraw-room:sha-49bf529
