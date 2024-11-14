@@ -78,4 +78,5 @@ xhofe/alist:latest
 # alswl/excalidraw:v0.17.3-fork-b1
 # alswl/excalidraw-storage-backend:v2023.11.11
 # excalidraw/excalidraw-room:sha-49bf529
-nodered/node-red
+# nodered/node-red
+ghcr.io/home-assistant/home-assistant:stable
