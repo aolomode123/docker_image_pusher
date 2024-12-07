@@ -4,7 +4,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-outlinewiki/outline:0.81.1
 # ghcr.io/ajnart/homarr:latest
 # ghcr.io/ajnart/homarr:0.15.2
 # linuxserver/calibre-web:0.6.21
@@ -80,3 +79,5 @@ outlinewiki/outline:0.81.1
 # excalidraw/excalidraw-room:sha-49bf529
 # nodered/node-red
 # ghcr.io/home-assistant/home-assistant:stable
+# outlinewiki/outline:0.81.1
+groonga/pgroonga:3.2.1-alpine-13
