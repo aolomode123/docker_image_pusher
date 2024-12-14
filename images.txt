@@ -80,4 +80,5 @@ xhofe/alist:latest
 # nodered/node-red
 # ghcr.io/home-assistant/home-assistant:stable
 # outlinewiki/outline:0.81.1
-groonga/pgroonga:3.2.1-alpine-13
+# groonga/pgroonga:3.2.1-alpine-13
+amwpfiqvy/rainloop
