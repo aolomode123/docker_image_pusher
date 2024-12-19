@@ -81,4 +81,5 @@ xhofe/alist:latest
 # ghcr.io/home-assistant/home-assistant:stable
 # outlinewiki/outline:0.81.1
 # groonga/pgroonga:3.2.1-alpine-13
-amwpfiqvy/rainloop
+# amwpfiqvy/rainloop
+redis:latest
