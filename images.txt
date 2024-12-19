@@ -82,4 +82,5 @@ xhofe/alist:latest
 # outlinewiki/outline:0.81.1
 # groonga/pgroonga:3.2.1-alpine-13
 # amwpfiqvy/rainloop
-redis:latest
+# redis:latest
+zyclonite/zerotier
