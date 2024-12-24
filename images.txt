@@ -83,4 +83,5 @@ xhofe/alist:latest
 # groonga/pgroonga:3.2.1-alpine-13
 # amwpfiqvy/rainloop
 # redis:latest
-zyclonite/zerotier
+# zyclonite/zerotier
+lscr.io/linuxserver/plex:latest
