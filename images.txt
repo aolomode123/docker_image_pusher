@@ -85,4 +85,4 @@ xhofe/alist:latest
 # redis:latest
 # zyclonite/zerotier
 # lscr.io/linuxserver/plex:latest
-arm64v8/redis:latest
+arm64/redis:latest
