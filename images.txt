@@ -85,5 +85,5 @@ xhofe/alist:latest
 # redis:latest
 # zyclonite/zerotier
 # lscr.io/linuxserver/plex:latest
-ghcr.io/immich-app/immich-server:release
-ghcr.io/immich-app/immich-machine-learning
+# ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:release
