@@ -35,7 +35,6 @@ xhofe/alist:latest
 # vaultwarden/server
 # docker.io/jc21/nginx-proxy-manager:latest
 # jc21/mariadb-aria:latest
-# nocodb/nocodb:0.257.2
 # postgres
 # halcyonazure/lsky-pro-docker
 # coldpig/lskypro-docker:latest
@@ -91,4 +90,5 @@ xhofe/alist:latest
 # tensorchord/pgvecto-rs:pg16-v0.2.0
 # jeessy/ddns-go
 # ghcr.io/immich-app/immich-server:release
-zerotier/zerotier-synology:latest
+# zerotier/zerotier-synology:latest
+nocodb/nocodb:0.260.2
