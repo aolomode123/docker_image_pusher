@@ -78,7 +78,6 @@ xhofe/alist:latest
 # excalidraw/excalidraw-room:sha-49bf529
 # nodered/node-red
 # ghcr.io/home-assistant/home-assistant:stable
-# outlinewiki/outline:0.81.1
 # groonga/pgroonga:3.2.1-alpine-13
 # amwpfiqvy/rainloop
 # redis:latest
@@ -91,4 +90,5 @@ xhofe/alist:latest
 # jeessy/ddns-go
 # ghcr.io/immich-app/immich-server:release
 # zerotier/zerotier-synology:latest
-nocodb/nocodb:0.260.2
+# nocodb/nocodb:0.260.2
+outlinewiki/outline:0.82.0
