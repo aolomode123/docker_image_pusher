@@ -91,4 +91,5 @@ xhofe/alist:latest
 # ghcr.io/immich-app/immich-server:release
 # zerotier/zerotier-synology:latest
 # nocodb/nocodb:0.260.2
-outlinewiki/outline:0.82.0
+# outlinewiki/outline:0.82.0
+jellyfin/jellyfin
