@@ -93,3 +93,4 @@ xhofe/alist:latest
 # nocodb/nocodb:0.260.2
 # outlinewiki/outline:0.82.0
 jellyfin/jellyfin
+lmk123/migpt-server
