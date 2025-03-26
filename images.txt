@@ -92,5 +92,6 @@ xhofe/alist:latest
 # zerotier/zerotier-synology:latest
 # nocodb/nocodb:0.260.2
 # outlinewiki/outline:0.82.0
-jellyfin/jellyfin
-lmk123/migpt-server
+# jellyfin/jellyfin
+# lmk123/migpt-server
+lscr.io/linuxserver/plex:1.41.5.9522-a96edc606-ls260
