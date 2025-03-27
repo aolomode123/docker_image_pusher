@@ -94,4 +94,4 @@ xhofe/alist:latest
 # jellyfin/jellyfin
 # lmk123/migpt-server
 # lscr.io/linuxserver/plex:1.41.5.9522-a96edc606-ls260
-ghcr.io/immich-app/immich-server:1.130.2
+ghcr.io/immich-app/immich-server:release
