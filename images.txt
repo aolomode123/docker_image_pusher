@@ -88,10 +88,10 @@ xhofe/alist:latest
 # docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
 # tensorchord/pgvecto-rs:pg16-v0.2.0
 # jeessy/ddns-go
-# ghcr.io/immich-app/immich-server:release
 # zerotier/zerotier-synology:latest
 # nocodb/nocodb:0.260.2
 # outlinewiki/outline:0.82.0
 # jellyfin/jellyfin
 # lmk123/migpt-server
-lscr.io/linuxserver/plex:1.41.5.9522-a96edc606-ls260
+# lscr.io/linuxserver/plex:1.41.5.9522-a96edc606-ls260
+ghcr.io/immich-app/immich-server:1.130.2
