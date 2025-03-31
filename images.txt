@@ -57,7 +57,6 @@ xhofe/alist:latest
 # docker.io/keycloak/keycloak:25.0.4
 # ghcr.io/linuxserver/syncthing:latest
 # portainer/portainer:latest
-# lscr.io/linuxserver/jackett:latest
 # postgres:17
 # gitea/gitea:latest
 # ghcr.io/linuxserver/syncthing:1.28.0
@@ -94,4 +93,5 @@ xhofe/alist:latest
 # jellyfin/jellyfin
 # lmk123/migpt-server
 # lscr.io/linuxserver/plex:1.41.5.9522-a96edc606-ls260
-ghcr.io/immich-app/immich-server:release
+# ghcr.io/immich-app/immich-server:release
+lscr.io/linuxserver/jackett:0.22.1709
