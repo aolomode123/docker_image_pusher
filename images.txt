@@ -94,4 +94,5 @@ xhofe/alist:latest
 # lmk123/migpt-server
 # lscr.io/linuxserver/plex:1.41.5.9522-a96edc606-ls260
 # ghcr.io/immich-app/immich-server:release
-lscr.io/linuxserver/jackett:0.22.1709
+# lscr.io/linuxserver/jackett:0.22.1709
+linuxserver/calibre-web:0.6.24
