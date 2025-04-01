@@ -80,14 +80,12 @@ xhofe/alist:latest
 # groonga/pgroonga:3.2.1-alpine-13
 # amwpfiqvy/rainloop
 # redis:latest
-# zyclonite/zerotier
 # lscr.io/linuxserver/plex:latest
 # ghcr.io/immich-app/immich-machine-learning:release
 # docker.io/redis:6.2-alpine@sha256:eaba718fecd1196d88533de7ba49bf903ad33664a92debb24660a922ecd9cac8
 # docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
 # tensorchord/pgvecto-rs:pg16-v0.2.0
 # jeessy/ddns-go
-# zerotier/zerotier-synology:latest
 # outlinewiki/outline:0.82.0
 # jellyfin/jellyfin
 # lmk123/migpt-server
@@ -95,4 +93,6 @@ xhofe/alist:latest
 # ghcr.io/immich-app/immich-server:release
 # lscr.io/linuxserver/jackett:0.22.1709
 # linuxserver/calibre-web:0.6.24
-nocodb/nocodb:0.262.5
+# nocodb/nocodb:0.262.5
+zerotier/zerotier-synology:latest
+zyclonite/zerotier
