@@ -43,7 +43,6 @@ xhofe/alist:latest
 # finab/bark-server
 # quay.io/keycloak/keycloak:legacy
 # quay.io/keycloak/keycloak:25.0.0
-# quay.io/keycloak/keycloak:25.0.1
 # postgres:16.2
 # emby/embyserver
 # ghcr.io/linuxserver/plex
@@ -94,5 +93,6 @@ xhofe/alist:latest
 # lscr.io/linuxserver/jackett:0.22.1709
 # linuxserver/calibre-web:0.6.24
 # nocodb/nocodb:0.262.5
-zerotier/zerotier-synology:latest
-zyclonite/zerotier
+# zerotier/zerotier-synology:latest
+# zyclonite/zerotier
+quay.io/keycloak/keycloak:26.1.4
