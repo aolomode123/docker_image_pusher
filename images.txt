@@ -95,4 +95,4 @@ xhofe/alist:latest
 # zerotier/zerotier-synology:latest
 # zyclonite/zerotier
 # quay.io/keycloak/keycloak:26.1.4
-ghcr.io/immich-app/immich-server:latest
+ghcr.io/immich-app/immich-server:release
