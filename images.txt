@@ -95,4 +95,5 @@ xhofe/alist:latest
 # zyclonite/zerotier
 # quay.io/keycloak/keycloak:26.1.4
 # ghcr.io/immich-app/immich-server:release
-outlinewiki/outline:0.83.0
+# outlinewiki/outline:0.83.0
+qbittorrentofficial/qbittorrent-nox
