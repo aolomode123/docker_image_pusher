@@ -96,4 +96,5 @@ xhofe/alist:latest
 # ghcr.io/immich-app/immich-server:release
 # outlinewiki/outline:0.83.0
 # qbittorrentofficial/qbittorrent-nox
-ghcr.io/linkwarden/linkwarden:v2.10.2
+# ghcr.io/linkwarden/linkwarden:v2.10.2
+rustdesk/rustdesk-server:1.1.14
