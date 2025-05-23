@@ -97,4 +97,5 @@ xhofe/alist:latest
 # outlinewiki/outline:0.83.0
 # qbittorrentofficial/qbittorrent-nox
 # ghcr.io/linkwarden/linkwarden:v2.10.2
-rustdesk/rustdesk-server:1.1.14
+# rustdesk/rustdesk-server:1.1.14
+gdy666/lucky
