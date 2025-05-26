@@ -99,4 +99,5 @@ xhofe/alist:latest
 # gdy666/lucky
 # n8nio/n8n
 # jellyfin/jellyfin
-qbittorrentofficial/qbittorrent-nox
+# qbittorrentofficial/qbittorrent-nox
+plexinc/pms-docker
