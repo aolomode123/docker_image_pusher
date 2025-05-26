@@ -100,4 +100,5 @@ xhofe/alist:latest
 # n8nio/n8n
 # jellyfin/jellyfin
 # qbittorrentofficial/qbittorrent-nox
-plexinc/pms-docker
+# plexinc/pms-docker
+emby/embyserver:latest
