@@ -101,4 +101,5 @@ xhofe/alist:latest
 # jellyfin/jellyfin
 # qbittorrentofficial/qbittorrent-nox
 # plexinc/pms-docker
-emby/embyserver:latest
+# emby/embyserver:latest
+ghcr.io/homarr-labs/homarr:latest
