@@ -103,4 +103,4 @@ xhofe/alist:latest
 # plexinc/pms-docker
 # emby/embyserver:latest
 # ghcr.io/homarr-labs/homarr:latest
-immich-server:v1.134.0
+immich-server:1.134.0
