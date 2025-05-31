@@ -102,4 +102,5 @@ xhofe/alist:latest
 # qbittorrentofficial/qbittorrent-nox
 # plexinc/pms-docker
 # emby/embyserver:latest
-ghcr.io/homarr-labs/homarr:latest
+# ghcr.io/homarr-labs/homarr:latest
+immich-server:v1.134.0
