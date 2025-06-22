@@ -79,7 +79,6 @@ xhofe/alist:latest
 # amwpfiqvy/rainloop
 # redis:latest
 # lscr.io/linuxserver/plex:latest
-# ghcr.io/immich-app/immich-machine-learning:release
 # docker.io/redis:6.2-alpine@sha256:eaba718fecd1196d88533de7ba49bf903ad33664a92debb24660a922ecd9cac8
 # docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
 # tensorchord/pgvecto-rs:pg16-v0.2.0
@@ -103,3 +102,4 @@ xhofe/alist:latest
 # emby/embyserver:latest
 # ghcr.io/homarr-labs/homarr:latest
 ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:release
