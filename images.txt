@@ -98,8 +98,9 @@ xhofe/alist:latest
 # plexinc/pms-docker
 # emby/embyserver:latest
 # ghcr.io/homarr-labs/homarr:latest
-ghcr.io/immich-app/immich-server:1.135.3
+# ghcr.io/immich-app/immich-server:1.135.3
 # ghcr.io/immich-app/immich-machine-learning:release
 # ghcr.io/linuxserver/syncthing:latest
 # nocodb/nocodb:0.263.8
 # ghcr.io/immich-app/immich-machine-learning:release-cuda
+ghcr.io/immich-app/immich-server:release
