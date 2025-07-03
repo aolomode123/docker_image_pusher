@@ -103,4 +103,5 @@ xhofe/alist:latest
 # nocodb/nocodb:0.263.8
 # ghcr.io/immich-app/immich-machine-learning:release-cuda
 # ghcr.io/immich-app/immich-server:release
-ghcr.io/blakeblackshear/frigate:stable
+# ghcr.io/blakeblackshear/frigate:stable
+vaultwarden/server:latest
