@@ -104,4 +104,4 @@ xhofe/alist:latest
 # ghcr.io/immich-app/immich-machine-learning:release-cuda
 # ghcr.io/immich-app/immich-server:release
 # ghcr.io/blakeblackshear/frigate:stable
-vaultwarden/server:latest
+vaultwarden/server:1.34.1
