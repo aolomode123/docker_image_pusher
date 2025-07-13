@@ -109,4 +109,7 @@ xhofe/alist:latest
 # lscr.io/linuxserver/plex:latest
 # ghcr.io/ajnart/homarr:latest
 # jellyfin/jellyfin
-ghcr.io/linuxserver/qbittorrent
+# ghcr.io/linuxserver/qbittorrent
+ghcr.io/immich-app/immich-machine-learning:release
+ghcr.io/immich-app/immich-server:release
+docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
