@@ -97,7 +97,6 @@ xhofe/alist:latest
 # ghcr.io/homarr-labs/homarr:latest
 # ghcr.io/immich-app/immich-machine-learning:release
 # ghcr.io/linuxserver/syncthing:latest
-# nocodb/nocodb:0.263.8
 # ghcr.io/immich-app/immich-machine-learning:release-cuda
 # ghcr.io/immich-app/immich-server:release
 # ghcr.io/blakeblackshear/frigate:stable
@@ -106,4 +105,5 @@ xhofe/alist:latest
 # filebrowser/filebrowser:latest
 # ghcr.io/ajnart/homarr:0.15.10
 # ghcr.io/homarr-labs/homarr:latest
-ghcr.io/immich-app/immich-web:release
+# ghcr.io/immich-app/immich-web:release
+nocodb/nocodb:latest
