@@ -4,7 +4,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-# ghcr.io/ajnart/homarr:latest
 # linuxserver/calibre-web:0.6.21
 # shaneisrael/fireshare:latest
 # snowdreamtech/frps:0.31.0
@@ -104,6 +103,9 @@ xhofe/alist:latest
 # outlinewiki/outline:0.85.0
 # filebrowser/filebrowser:latest
 # ghcr.io/ajnart/homarr:0.15.10
-# ghcr.io/homarr-labs/homarr:latest
 # ghcr.io/immich-app/immich-web:release
-nocodb/nocodb:latest
+# nocodb/nocodb:latest
+ghcr.io/homarr-labs/homarr:latest
+lscr.io/linuxserver/plex:latest
+ghcr.io/ajnart/homarr:latest
+jellyfin/jellyfin
