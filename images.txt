@@ -93,7 +93,6 @@ xhofe/alist:latest
 # qbittorrentofficial/qbittorrent-nox
 # plexinc/pms-docker
 # emby/embyserver:latest
-# ghcr.io/homarr-labs/homarr:latest
 # ghcr.io/immich-app/immich-machine-learning:release
 # ghcr.io/linuxserver/syncthing:latest
 # ghcr.io/immich-app/immich-machine-learning:release-cuda
@@ -101,15 +100,15 @@ xhofe/alist:latest
 # ghcr.io/blakeblackshear/frigate:stable
 # vaultwarden/server:1.34.1
 # filebrowser/filebrowser:latest
-# ghcr.io/ajnart/homarr:0.15.10
 # ghcr.io/immich-app/immich-web:release
-# ghcr.io/homarr-labs/homarr:latest
 # lscr.io/linuxserver/plex:latest
 # ghcr.io/ajnart/homarr:latest
+# ghcr.io/ajnart/homarr:0.15.10
 # jellyfin/jellyfin
 # ghcr.io/linuxserver/qbittorrent
 # ghcr.io/immich-app/immich-machine-learning:release
 # docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 # ghcr.io/immich-app/immich-server:release
 # outlinewiki/outline:latest
-nocodb/nocodb:latest
+# nocodb/nocodb:latest
+ghcr.io/homarr-labs/homarr:latest
