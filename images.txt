@@ -111,5 +111,5 @@ xhofe/alist:latest
 # ghcr.io/linuxserver/qbittorrent
 # ghcr.io/immich-app/immich-machine-learning:release
 # docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
-ghcr.io/immich-app/immich-server:v1.138.1
+ghcr.io/immich-app/immich-server:release
 outlinewiki/outline:latest
