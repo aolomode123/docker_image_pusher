@@ -111,4 +111,4 @@ xhofe/alist:latest
 # outlinewiki/outline:latest
 # nocodb/nocodb:latest
 # ghcr.io/homarr-labs/homarr:latest
-ghcr.io/immich-app/immich-server:1.142.0
+ghcr.io/immich-app/immich-server:v1.142.0
