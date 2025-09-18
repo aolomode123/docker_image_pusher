@@ -111,4 +111,5 @@ xhofe/alist:latest
 # nocodb/nocodb:latest
 # ghcr.io/homarr-labs/homarr:latest
 # ghcr.io/immich-app/immich-server:v1.142.0
-outlinewiki/outline:latest
+# outlinewiki/outline:latest
+stilleshan/frpc
