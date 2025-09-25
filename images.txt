@@ -113,4 +113,5 @@ xhofe/alist:latest
 # ghcr.io/immich-app/immich-server:v1.142.0
 # outlinewiki/outline:latest
 # stilleshan/frpc
-xhongc/music_tag_web:latest
+# xhongc/music_tag_web:latest
+lscr.io/linuxserver/calibre-web:latest
