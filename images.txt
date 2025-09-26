@@ -114,4 +114,5 @@ xhofe/alist:latest
 # outlinewiki/outline:latest
 # stilleshan/frpc
 # xhongc/music_tag_web:latest
-lscr.io/linuxserver/calibre-web:latest
+# lscr.io/linuxserver/calibre-web:latest
+linuxserver/kodi-headless
