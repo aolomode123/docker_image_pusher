@@ -110,9 +110,9 @@ xhofe/alist:latest
 # docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 # nocodb/nocodb:latest
 # ghcr.io/homarr-labs/homarr:latest
-# ghcr.io/immich-app/immich-server:v1.142.0
 # outlinewiki/outline:latest
 # stilleshan/frpc
 # xhongc/music_tag_web:latest
 # lscr.io/linuxserver/calibre-web:latest
-linuxserver/kodi-headless
+# linuxserver/kodi-headless
+ghcr.io/immich-app/immich-server:v2.0.0
