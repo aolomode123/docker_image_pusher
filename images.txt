@@ -55,7 +55,6 @@ xhofe/alist:latest
 # ghcr.io/linuxserver/syncthing:1.28.0
 # kromit/titra
 # mongo:5.0
-# redmine:latest
 # mattermost/focalboard:latest
 # excalidraw/excalidraw:latest
 # excalidraw/excalidraw-room:latest
@@ -115,4 +114,5 @@ xhofe/alist:latest
 # lscr.io/linuxserver/calibre-web:latest
 # linuxserver/kodi-headless
 # ghcr.io/immich-app/immich-server:v2.0.0
-shaneisrael/fireshare:latest
+# shaneisrael/fireshare:latest
+redmine:latest
