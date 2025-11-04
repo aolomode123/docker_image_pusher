@@ -116,6 +116,7 @@ xhofe/alist:latest
 # ghcr.io/immich-app/immich-server:v2.0.0
 # shaneisrael/fireshare:latest
 # redmine:latest
-mariadb:11.4-noble
-redmine:6.0.6
-ghcr.io/immich-app/immich-server:v2.2.2
+# mariadb:11.4-noble
+# redmine:6.0.6
+# ghcr.io/immich-app/immich-server:v2.2.2
+outlinewiki/outline:1.0.1
