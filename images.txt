@@ -118,3 +118,4 @@ xhofe/alist:latest
 # redmine:latest
 mariadb:11.4-noble
 redmine:6.0.6
+ghcr.io/immich-app/immich-server:v2.2.2
