@@ -119,4 +119,4 @@ xhofe/alist:latest
 # mariadb:11.4-noble
 # redmine:6.0.6
 # ghcr.io/immich-app/immich-server:v2.2.2
-outlinewiki/outline:1.0.1
+outlinewiki/outline:1.1.0
